@@ -36,3 +36,32 @@ cd bibliotheque-api
 
 ```
 
+
+ ## 🎥 Démo du Projet
+
+
+
+
+
+https://github.com/user-attachments/assets/ff54d109-61ca-4731-ae55-85c08e970e
+
+
+
+
+## 👤 Auteur
+
+* **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière  :** CLE_INFO_S5
+
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
+
+* **Cours :** `Développement web full-stack avec JavaScript`
+
+
+
+
+
